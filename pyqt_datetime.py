@@ -12,6 +12,9 @@ from PyQt5 import QtGui
 from datetime import date, timedelta, datetime
 import psutil
 import time
+import warnings
+
+warnings.filterwarnings('ignore')
 
 qApp = QApplication(sys.argv)
 screen = qApp.primaryScreen()
