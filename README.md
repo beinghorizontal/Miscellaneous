@@ -14,6 +14,7 @@ I made this application because I wanted a full-screen experience like Linux wit
 
 It looks something like this 
 
+![image](https://user-images.githubusercontent.com/28746824/108651510-ed27ad80-74e7-11eb-944b-4ac407fa146a.png)
 
 
 I have added the bat file (change the folder path in bat file accordingly), if you want to launch the notification window on restart then press window + R, write "shell:startup" enter and a new folder will pop-up, paste the given batch file into that folder.
