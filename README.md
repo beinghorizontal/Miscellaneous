@@ -11,6 +11,6 @@ I made this application because I wanted a full-screen experience like Linux wit
 It looks something like this 
 ![image](https://user-images.githubusercontent.com/28746824/108644985-2a377400-74d7-11eb-8dbd-03ced62c6e25.png)
 
-I have added the bat file, if you want to launch the notification window on restart then press window + R, write "shell:startup" enter and a new folder will pop-up, paste the given batch file into that folder.
+I have added the bat file (change the folder path in bat file accordingly), if you want to launch the notification window on restart then press window + R, write "shell:startup" enter and a new folder will pop-up, paste the given batch file into that folder.
 
 Maybe in the future I will add the stock ticker in the display window, the problem is additional dependency and sites tend to change the design a lot.
