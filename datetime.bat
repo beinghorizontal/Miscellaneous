@@ -1,1 +1,1 @@
-c:/anaconda/python.exe C:\anaconda\Scripts\pyqt_datetime.py
+c:/my_python/location/python.exe C:\my\Scripts\pyqt_datetime.py
