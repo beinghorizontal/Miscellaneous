@@ -1,4 +1,4 @@
-# qtpcinfo
+# QTpcinfo
 Persistent QT5 window to display Datetime (yyyy-mm-dd Day hh:mm:ss) CPU% RAM% and network bandwidth.
 
 Do note that this is always on the top window by default and it will be persistent even during watching the movies. Actually, that was one of my requirement, if it annoys you then comment line 58 and uncomment line 59
