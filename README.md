@@ -3,6 +3,10 @@ Persistent QT5 window to display Datetime (yyyy-mm-dd Day hh:mm:ss) CPU% RAM% an
 
 Do note that this is always on the top window by default and it will be persistent even during watching the movies. Actually, that was one of my requirement, if it annoys you then comment line 58 and uncomment line 59
 
+To change the text size line 102
+
+To changecolor line 107 (default is Qt.cyan)
+
 The only external requirement is Pyqt5 library <pip install pyqt5>
 
 Why this tool?
@@ -12,5 +16,7 @@ It looks something like this
 ![image](https://user-images.githubusercontent.com/28746824/108644985-2a377400-74d7-11eb-8dbd-03ced62c6e25.png)
 
 I have added the bat file (change the folder path in bat file accordingly), if you want to launch the notification window on restart then press window + R, write "shell:startup" enter and a new folder will pop-up, paste the given batch file into that folder.
+
+For Linux use qtpcinfo.sh 
 
 Maybe in the future I will add the stock ticker in the display window, the problem is additional dependency and sites tend to change the design a lot.
