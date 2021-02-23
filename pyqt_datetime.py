@@ -39,7 +39,7 @@ def dl_ul():
         dl_old_value = dl_new_value
         ul_old_value = ul_new_value
 
-        time.sleep(0.3)
+        time.sleep(0.8)
     return dl, ul
 
 
